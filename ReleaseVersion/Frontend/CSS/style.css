@@ -1,0 +1,55 @@
+body {
+  font-family: Trebuchet MS;
+  line-height: 150%;
+  background-color: #FFFFFF;
+
+}
+.login-class{
+  border: 8px solid #009;
+  border-radius: 5px;
+  text-align: center;
+  border-width: 100%;
+  margin:auto;
+}
+.insthp-class{
+
+}
+#navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding:0;
+  padding-bottom: 
+  overflow: hidden;
+  background-color: #333;
+}
+#navbar ul li {
+  float: left;
+  border-right: none;
+  border-left: none;
+}
+#navbar ul li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+#navbar ul li a:hover:not(.active){
+  background-color: #111;
+}
+
+.active {
+  background-color: #1E90FF;
+}
+h1{
+  color:#009;
+  text-align:center;
+  font-size:70px;
+  margin: 0 auto;
+  font-family: 'Bangers';
+  font-weight:bold;
+  padding: 84px 10px;
+}
+form{
+  text-align: center;
+}
